@@ -1,2 +1,2 @@
 # javascripting
-javascripting-desarrollo web
+javascrip basic-desarrollo web
